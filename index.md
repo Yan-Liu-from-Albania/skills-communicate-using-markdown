@@ -3,4 +3,4 @@
 #### This is the h4 header
 ###### This is the h6 header
 
-![Image of wojack](https://data2.nssmag.com/images/galleries/22874/wojak-nss-magazine-1.jpg))
+![Image of wojack](https://data2.nssmag.com/images/galleries/22874/wojak-nss-magazine-1.jpg)
